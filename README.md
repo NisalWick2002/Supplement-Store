@@ -3,4 +3,4 @@ The Supplement Store project uses HTML, CSS, JS, and PHP with a XAMPP database. 
 
 # Site under maintenance
 This site contains a customer interface and also an admin pannel too. Due to an interface change the admin pannel needed to be updated.
-Till then the site remains unavailable.
+Till then the 

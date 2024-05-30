@@ -4,4 +4,4 @@ The Supplement Store project uses HTML, CSS, JS, and PHP with a XAMPP database. 
 
 
 
-It imports libraries via CDN and allows users to purchase supplements through a virtual ca
+It imports libraries via CDN and allows users to purchase supplemen

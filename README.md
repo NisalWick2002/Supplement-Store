@@ -3,4 +3,4 @@ The Supplement Store project uses HTML, CSS, JS, and PHP with a XAMPP database. 
 
 
 
-HelvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvN and allows users to purchase supplements through a v
+HelvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvN and allows users to purchase suppleme

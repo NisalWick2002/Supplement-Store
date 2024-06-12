@@ -6,7 +6,7 @@ The Supplement Store project uses HTML, CSS, JS, and PHP with an XAMPP database.
 - [Overview](https://github.com/NisalWick2002/Supplement-Store?tab=readme-ov-file#overview-)
 - [Features](https://github.com/NisalWick2002/Supplement-Store?tab=readme-ov-file#features-%EF%B8%8F)
 
-## Overview 📋cccccccccccccccccccccccccccc
+## Overview 📋cccccccccc
 
 Supplement Store embodies a sophisticated online platform that harmonizes PHP, HTML, and JavaScript to establish a dynamic marketplace catering to both supplement enthusiasts and administrators. Offering an extensive range of premium products, users can seamlessly browse, order, and interact with personalized features, while administrators wield robust tools for efficient product management, user administration, and streamlined communication channels. More than just an e-commerce site, Supplement Store fosters a vibrant community dedicated to wellness, vitality, and technological innovation.
 
